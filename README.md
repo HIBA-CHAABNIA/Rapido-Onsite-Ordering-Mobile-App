@@ -80,6 +80,7 @@ RAPIDO
 └── tsconfig.json     
 ```
 ## Rapido Prototype Demo 🎥
-[Watch the Rapido Prototype Video](https://github.com/HIBA-CHAABNIA/Rapido-Onsite-Ordering-Mobile-App/blob/main/Rapido%20Prototype.mp4)
+Check out the demo :
+👉 [Rapido Prototype Demo](https://youtube.com/shorts/kfY8LqPWlb0?feature=share)
 
 
