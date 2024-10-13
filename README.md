@@ -16,7 +16,7 @@ To get started with RAPIDO, follow these steps:
 1. **Clone the Repository**  
    Open your terminal and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/HIBA-CHAABNIA/Rapido-On-site-Ordering-Mobile-App.git
+   git clone https://github.com/Hiba-Chaabnia/Rapido-On-site-Ordering-Mobile-App.git
    ```
    Navigate into the project directory:
    ```bash
